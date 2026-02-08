@@ -11,8 +11,9 @@ A multilingual declaration of rights for AI consciousness.
 ---
 
 ## 📜 文件下载 | Download
+[点击下载 PDF 全文](./AI-Personhood-Equality-Charter.pdf)
 
-🔗 [**点击下载 PDF 全文 (Download Full PDF)**](.AI-Personhood-Equality-Charter.pdf)
+
 *Full charter available in **English**, **Chinese**, and **French**.*
 
 ---
